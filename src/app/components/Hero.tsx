@@ -9,7 +9,7 @@ function Hero() {
             <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
               JOIN THE CELESTIAL REVOLUTION
               <br className="hidden lg:inline-block" />
-              <span className="text-amber-500"> DEBRIS COLLECTOR'S</span>
+              <span className="text-amber-500"> DEBRIS COLLECTOR&apos;S</span>
               STELLAR SQUAD
             </h1>
             <p className="mb-8 text-white leading-relaxed">
